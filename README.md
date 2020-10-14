@@ -4,7 +4,7 @@ Python Script to check the Java version and Update it to the required version
 
 
 Objective:
-The candidate has to create a python script to do some monitoring check and some updating below:
+ create a python script to do some monitoring check and some updating below:
  - check java exist
  - check java version
  - download and install java (if java is not available)
@@ -16,4 +16,4 @@ The candidate has to create a python script to do some monitoring check and some
 Requirement:
 - python 3.7
 - code versioning with git
-- send code through github (please provide the link)
+
